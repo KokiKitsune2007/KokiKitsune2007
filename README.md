@@ -4,7 +4,7 @@ Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy 
 
 <big><b>My Skills:</big></b>
 
-
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50"/>
 
