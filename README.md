@@ -3,6 +3,8 @@
 Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy working on 4 private repositories so don't bother me.
 
 <big><b>My Skills:</big></b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokiTheGreat&theme=tokyonight)
 
