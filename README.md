@@ -17,7 +17,8 @@ Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" width="50"/>
 </div>
 
-
+<div align="right">
+  <img src="https://m.mediaamazon.com/images/M/MV5BNTI5NTYxMGUtMjFiMy00ZDIxLWE0YzMtZDMxNTFmZDM2NDk4XkEyXkFqcGdeQXVyNjUzMDIyNzE@._V1_.jpg"/>
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokiTheGreat&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KokiTheGreat&show_icons=true&theme=tokyonight)
