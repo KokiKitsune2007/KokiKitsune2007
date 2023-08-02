@@ -14,7 +14,7 @@ Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy 
 <big><b>My Browser</b></big>
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" width="50"/>
 </div>
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokiTheGreat&theme=tokyonight)
