@@ -1,7 +1,7 @@
 <big><b>About Me:</big></b>
 
 Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy working on 4 private repositories so don't bother me.
-My favorite languages to code in are Python, batch, and C.
+My favorite languages to code in are Python, batch, and C.  I hate Javascript!
 
   <big><b>My Skills</big></b>
 
