@@ -1,7 +1,7 @@
 <big><b>About Me:</big></b>
 
 Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy working on 4 private repositories so don't bother me.
-My favorite languages to code in are Python, batch, and C.  I hate Javascript!  I have goldenhar syndrome
+My favorite languages to code in are Python, batch, and C.  I hate Javascript!  I have goldenhar syndrome.
 
   <big><b>My Skills</big></b>
 
