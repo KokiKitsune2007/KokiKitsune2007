@@ -26,7 +26,6 @@ My favorite languages to code in are Python, batch, and C.  I hate Javascript!
 </div>
 
 <big><b>My Stats</b></big>
-
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokiTheGreat&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KokiTheGreat&show_icons=true&theme=tokyonight)
