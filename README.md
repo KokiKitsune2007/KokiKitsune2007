@@ -1,7 +1,3 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Koko&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
-
 <big><b>About Me:</big></b>
 
 Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy working on 4 private repositories so don't bother me.
