@@ -32,12 +32,5 @@ My favorite languages to code in are Python and batch.  In my spare time, I enjo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KokiX333&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KokiX333&show_icons=true&theme=tokyonight)](https://github.com/Sid72020123)
-
-# Wii
-{{Userbox country|USA}}
-{{Userbox lang|en}}
-{{Userbox code|C}}
-{{Userbox code|Python}}
-{{Userbox code|Batch}}
 <!--
 
