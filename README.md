@@ -4,6 +4,7 @@ Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy 
 My favorite languages to code in are Python and batch.  In my spare time, I enjoy mentoring 7th graders, Tennis, and playing a Ukelele.
 
 # My Computers
+<div align="left">
 <big><b>HP Chromebook (school laptop)</b></big>
 <big><b>HP Pavilion 15.6 (Main laptop)</b></big>
 <big><b>DELL XPS 200 (Currently broken)</b></big>
