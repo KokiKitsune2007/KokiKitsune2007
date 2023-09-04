@@ -6,7 +6,9 @@ My favorite languages to code in are Python and batch.  In my spare time, I enjo
 # My Computers
 <div align="left">
 <big><b>HP Chromebook (school laptop)</b></big>
+  
 <big><b>HP Pavilion 15.6 (Main laptop)</b></big>
+
 <big><b>DELL XPS 200 (Currently broken)</b></big>
 
   # My Skills:
