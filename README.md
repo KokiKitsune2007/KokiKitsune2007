@@ -8,6 +8,10 @@ My favorite languages to code in are Python and batch.  In my spare time, I enjo
 <big><b>HP Chromebook (school laptop)</b></big>
   
 <big><b>HP Pavilion 15.6 (Main laptop)</b></big>
+
+# My Servers
+<div align="left">
+  <big><b>None.  But, I do want a dell Poweredge R410</b></big>
   # My Skills:
 
 <div align="left">
