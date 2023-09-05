@@ -12,6 +12,7 @@ My favorite languages to code in are Python and batch.  In my spare time, I enjo
 # My Servers
 <div align="left">
   <big><b>None.  But, I do want a dell Poweredge R410</b></big>
+
   # My Skills:
 
 <div align="left">
