@@ -21,6 +21,8 @@ My favorite languages to code in are Python and batch.  In my spare time, I enjo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5518/5518085.png" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50"/>
+
 </div>
 
 # My Browser:
