@@ -31,12 +31,6 @@ My favorite languages to code in are Python and batch.  In my spare time, I enjo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" width="50"/>
 </div>
 
-# Learning
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50"/>
-</div>
-
 # My Stats:
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokiKitsune2007&theme=tokyonight)
