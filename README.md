@@ -1,7 +1,7 @@
 # About Me:
 
 Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy working on 4 private repositories so don't bother me.
-My favorite languages to code in are Python and batch.  In my spare time, I enjoy mentoring 7th graders, Tennis, and playing a Ukelele.
+My favorite languages to code in are Python and batch.  In my spare time, I enjoy photography, Tennis, and weather watching.
 
 # My Computers
 <div align="left">
