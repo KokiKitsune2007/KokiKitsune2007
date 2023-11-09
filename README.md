@@ -5,7 +5,7 @@ My favorite languages to code in are Python and batch.  In my spare time, I enjo
 
 # Favorite Quote
 "*Keep hacking.  It's what bushing would have wanted*"
-"*-marcan*"
+*-marcan*
 
 # My Computers
 <div align="left">
