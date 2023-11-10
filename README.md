@@ -1,9 +1,13 @@
-# About Me:
+# Ethncity 
+<div align="left">
+  🇵🇭 🇯🇵  
 
+  # About Me:
 Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  I am currently busy working on 4 private repositories so don't bother me.
 My favorite languages to code in are Python and batch.  In my spare time, I enjoy photography, Tennis, and weather watching.
 
 # Favorite Quote
+
 "*Keep hacking.  It's what bushing would have wanted*"
 *-marcan*
 
