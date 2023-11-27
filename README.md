@@ -28,10 +28,10 @@ Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  My favorite language
 
 </div>
 
-# My Browser:
+# My OS's:
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="50"/>      
 </div>
 
 # My Stats:
