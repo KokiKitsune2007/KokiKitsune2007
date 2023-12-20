@@ -6,12 +6,6 @@ Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  My favorite language
 "*Keep hacking.  It's what bushing would have wanted*"
 *-marcan*
 
-# My Computers
-<div align="left">
-<big><b>HP Chromebook (school laptop)</b></big>
-  
-<big><b>HP Pavilion 15.6 (Main laptop)</b></big>
-
 # My Servers
 <div align="left">
   <big><b>None.  But, I do want a dell Poweredge R410</b></big>
