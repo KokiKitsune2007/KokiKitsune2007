@@ -18,6 +18,5 @@ Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  My favorite language
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KokiKitsune2007&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KokiKitsune2007&show_icons=true&theme=tokyonight)](https://github.com/Sid72020123)
 <!--
 
