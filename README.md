@@ -1,15 +1,6 @@
 # About Me:
 Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  My favorite languages to code in are Python and batch.  In my spare time, I enjoy photography and weather watching.  I have a little bit of knowledge in C and C++.
 
-# Favorite Quote
-
-"*Keep hacking.  It's what bushing would have wanted*"
-*-marcan*
-
-# My Servers
-<div align="left">
-  <big><b>None.  But, I do want a dell Poweredge R410</b></big>
-
   # My Skills:
 
 <div align="left">
@@ -19,13 +10,6 @@ Hi, I am a Wii Modder, Web developer, and Tech enthusiast.  My favorite language
   <img src="https://cdn-icons-png.flaticon.com/512/5518/5518085.png" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50"/>
-
-</div>
-
-# My OS's:
-
-<div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" width="50"/>      
 </div>
 
 # My Stats:
