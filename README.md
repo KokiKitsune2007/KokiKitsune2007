@@ -1,4 +1,1 @@
-## Tech Stack
-
-
-I'm too lazy to put it here so, I'll edit it later -_-
+[![Tech Stack](https://skillicons.dev/icons?i=py,go,cs,html,css,c)](https://skillicons.dev)
